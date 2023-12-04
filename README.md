@@ -5,11 +5,15 @@ U2View es un script en Python que utiliza la biblioteca yt-dlp para descargar y 
 El script ofrece dos opciones al usuario:
 
 1- Descargar un único archivo: Descarga un archivo de video+audio en la resolución más cercana a Full HD, sin informar al usuario la resolución exacta que finalmente se descargará.
+
 2 -Descargar video en Full HD: Descarga el video en resolución Full HD (1920x1080), descargando audio y video por separado  así lo dispone YouTube, el problema de esto es que al bajar archivos por separado de audio y video, luego hay que fusionarlos y eso implica que no tenga sentido reproducirlo.
 
 Requisitos:
+
 ° Python 3.x
+
 ° yt-dlp
+
 ° VLC
 
 Instrucciones de uso:

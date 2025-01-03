@@ -5,6 +5,7 @@ El script ofrece dos opciones al usuario:
 2- Descargar video en Full HD: Descarga el video en resolución Full HD (1920x1080), descargando audio y video por separado  así lo dispone YouTube, el problema de esto es que al bajar archivos por separado de audio y video, luego hay que fusionarlos y eso implica que no tenga sentido reproducirlo.
 
 Requisitos:
+
 ° VLC.
 
 ° yt-dlp.

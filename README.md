@@ -6,7 +6,9 @@ El script ofrece dos opciones al usuario:
 
 Requisitos:
 ° VLC.
+
 ° yt-dlp.
+
 ° Python 3.x.
 
 Instrucciones de uso:
